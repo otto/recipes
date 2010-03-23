@@ -1,11 +1,11 @@
 * Neopolitan-Style Pizza Crust
 ** Ingredients
-*** 4.5 cups Unbleached All Purpose Flour or Bread Flour
-*** 1.75 teaspoons salt
-*** 1 teaspoon yeast
-*** .25 cup olive oil
-*** 1.75 cups ice cold water
-*** Semolina flour or cornmeal for dusting peel
+- 4.5 cups Unbleached All Purpose Flour or Bread Flour
+- 1.75 teaspoons salt
+- 1 teaspoon yeast
+- .25 cup olive oil
+- 1.75 cups ice cold water
+- Semolina flour or cornmeal for dusting peel
 ** Preperation Day
    1. Stir dry ingredients together.
    2. Mix water and oil in slowly with a metal spoon.  Have a bowl of water to dip the spoon into if necessary.
